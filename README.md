@@ -24,7 +24,7 @@ setelah itu ada class bernama btn yang kita isi dengan href="...." sesuai link y
 lalu pada file tentang html tadi kita membuat seperti awal pada biografi ,
 lalu pada body kita membuat container untuk dijadikan wadah utama sebuah konte dengan bantuan <P> agar lebih rapih lalu mengelompokkan riwayat oendidikan di dalam  <div class="edu"> yang di dalam nya berisi alumni dari mana kita berasal, setelah itu di lanjut dengan membuat class hobi untuk di kelompokkan.
 
-setelah itu kita membuat tempat untuk galeri foto kita dengan memasukkan gambar dengan cara <img src="foto/foto1.jpg" alt="Foto 1"> dan seterus nya.
+setelah itu kita membuat tempat untuk galeri foto kita dengan memasukkan gambar dengan cara <img src="foto/.....jpg" alt="....."> dan seterus nya.
 ---------------------------------------------------------------------------
 pada bagian css kita menggunakan beberapa perintah yakni font family untuk mengubah font nya , lalu background nya dengan beberapa gabungan warna , ada color untuk menentukan warna pada beberapa tempat, 
 
